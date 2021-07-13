@@ -1,3 +1,5 @@
-# README FILE SHOULD START WITH HASH.
-this is head for README FILE
-here we somethings later when we are free.
+#INFORMATION ABOUT OURSELF
+Hi I am Fazal Rehman.
+I am interested in Python.
+I am currentlu learning Python.
+I am looking to collaborate in GitHub.
